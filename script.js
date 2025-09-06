@@ -6,3 +6,5 @@ let foods = [
   { name: "Ice Cream", image: "https://source.unsplash.com/200x150/?icecream" },
   { name: "Sushi", image: "https://source.unsplash.com/200x150/?sushi" }
 ];
+// Get container
+let container = document.getElementById("food-container");
