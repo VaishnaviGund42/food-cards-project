@@ -8,3 +8,16 @@ let foods = [
 ];
 // Get container
 let container = document.getElementById("food-container");
+
+// Iterate and create cards dynamically
+foods.forEach(food => {
+  let card = document.createElement("div");
+  card.className = "food-card";
+
+  card.innerHTML = `
+    <img src="${food.image}" alt="${food.name}">
+    <h3>${food.name}</h3>
+  `;
+
+  container.appendChild(card);
+});
