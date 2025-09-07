@@ -4,7 +4,7 @@ let foods = [
   { name: "Burger", image: "images/burger.jpg" },
   { name: "Pasta", image: "images/pasta.jpg" },
   { name: "Ice Cream", image: "images/icecream.jpg" },
-  { name: "Sandwich", image: "images/sandwich-img.jpg" }
+  { name: "Sandwich", image: "images/pizza.jpg" }
 ];
 // Get container
 let container = document.getElementById("food-container");
