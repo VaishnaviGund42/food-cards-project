@@ -1,10 +1,11 @@
 // Array of favourite food items
 let foods = [
-  { name: "Pizza", image: "images/pizza-img.jpg" },
+  { name: "Pizza", image: "images/pizza.jpg" },
   { name: "Burger", image: "images/burger.jpg" },
   { name: "Pasta", image: "images/pasta.jpg" },
-  { name: "Ice Cream", image: "images/icecream.jpg" },
-  { name: "Sandwich", image: "images/pizza.jpg" }
+  { name: "Sandwich", image: "images/sandwich-img.jpg" },
+  { name: "Ice Cream", image: "images/icecream.jpg" }
+  
 ];
 // Get container
 let container = document.getElementById("food-container");
