@@ -1,8 +1,8 @@
 // Array of favourite food items
 let foods = [
   { name: "Pizza", image: "images/pizza-img.jpg" },
-  { name: "Burger", image: "https://source.unsplash.com/200x150/?burger" },
-  { name: "Pasta", image: "https://source.unsplash.com/200x150/?pasta" },
+  { name: "Burger", image: "images/burger.jpg" },
+  { name: "Pasta", image: "images/pasta.jpg" },
   { name: "Ice Cream", image: "https://source.unsplash.com/200x150/?icecream" },
   { name: "Sushi", image: "https://source.unsplash.com/200x150/?sushi" }
 ];
