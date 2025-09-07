@@ -3,8 +3,8 @@ let foods = [
   { name: "Pizza", image: "images/pizza-img.jpg" },
   { name: "Burger", image: "images/burger.jpg" },
   { name: "Pasta", image: "images/pasta.jpg" },
-  { name: "Ice Cream", image: "https://source.unsplash.com/200x150/?icecream" },
-  { name: "Sushi", image: "https://source.unsplash.com/200x150/?sushi" }
+  { name: "Ice Cream", image: "images/ice-cream.jpg" },
+  { name: "Sandwich", image: "images/sandwich.jpg" }
 ];
 // Get container
 let container = document.getElementById("food-container");
